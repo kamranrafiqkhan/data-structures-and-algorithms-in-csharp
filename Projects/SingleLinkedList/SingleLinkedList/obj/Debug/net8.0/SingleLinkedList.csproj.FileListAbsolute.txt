@@ -1,0 +1,14 @@
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\bin\Debug\net8.0\SingleLinkedList.exe
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\bin\Debug\net8.0\SingleLinkedList.deps.json
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\bin\Debug\net8.0\SingleLinkedList.runtimeconfig.json
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\bin\Debug\net8.0\SingleLinkedList.dll
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\bin\Debug\net8.0\SingleLinkedList.pdb
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.AssemblyInfoInputs.cache
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.AssemblyInfo.cs
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.dll
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\refint\SingleLinkedList.dll
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.pdb
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\SingleLinkedList.genruntimeconfig.cache
+D:\Personal\Trainings\DSA\Projects\SingleLinkedList\SingleLinkedList\obj\Debug\net8.0\ref\SingleLinkedList.dll
